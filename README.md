@@ -1,3 +1,5 @@
-# CC105-Portfolio-
+# CC105-Portfolio
 
-## This portfolio will serve as storage of my accomplishment in CC105 subject and details about myself. 
+#This portfolio will serve as storage of my accomplishment in CC105 subject. 
+#And details about myself.
+
